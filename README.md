@@ -1,8 +1,8 @@
-# Awesome CLIP
+# Awesome CLIP Projects
 
 ## 👋 Hello
 
-OpenAI's [CLIP](https://github.com/openai/CLIP) model is arguably one of the most influential models in computer vision, having use cases in everything from building image search engines to content moderation.
+OpenAI's [CLIP](https://github.com/openai/CLIP) ([paper](https://openai.com/research/clip)) model is arguably one of the most influential models in computer vision, having use cases in everything from building image search engines to content moderation.
 
 This repository lists projects built with CLIP.
 
@@ -15,6 +15,7 @@ This repository lists projects built with CLIP.
 - [VisionScript](https://visionscript.dev/): An abstract programming language for computer vision. Uses CLIP to power a `Classify` block for zero-shot classification.
 - [Photo memories app](https://blog.roboflow.com/build-a-photo-memories-app-with-clip/): A tutorial showing how to build a photo memories app with CLIP.
 - [Image search engine](https://blog.roboflow.com/clip-image-search-faiss/): Build an image-to-image search engine with CLIP.
+- [Zero-shot object tracking powered by CLIP](https://github.com/roboflow/zero-shot-object-tracking): Track objects with CLIP.
 - Add more projects here...
 
 ### Tutorials and Blog Posts
